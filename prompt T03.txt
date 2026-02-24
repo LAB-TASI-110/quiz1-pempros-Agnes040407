@@ -4,3 +4,4 @@ bantu aku untuk membuat pseudocodenya
 jelaskan setiap fungsi yang digunakan
 jelaskan alur logika pemograman ini
 contoh input dan outputnya dari program ini
+.
