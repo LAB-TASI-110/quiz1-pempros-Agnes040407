@@ -1,0 +1,6 @@
+tolong rancang sistem informasi untuk laundry del yang mendukung operasional sehari hari beserta fitur fitur dann alur kerjanya
+aku mau buat sistem pendataan pelanggan aja
+bantu aku untuk membuat pseudocodenya
+jelaskan setiap fungsi yang digunakan
+jelaskan alur logika pemograman ini
+contoh input dan outputnya dari program ini
